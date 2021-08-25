@@ -39,7 +39,8 @@ class Program
                 case "S":
                     Console.WriteLine("Tchau\n");
                     break;
-                    
+                default:
+		    throw new ArgumentOutOfRangeException();    
                     
                     
             }
