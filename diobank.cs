@@ -1,3 +1,5 @@
+//código conforme exercícios de bootcamp da dio consistindo em um sistema de banco simples
+
 using System;
 using System.Collections.Generic;
 
@@ -128,13 +130,13 @@ namespace DIO.Bank
 			Console.WriteLine("DIO Bank a seu dispor!!!");
 			Console.WriteLine("Informe a opção desejada:");
 
-			Console.WriteLine("1- Listar contas");
-			Console.WriteLine("2- Inserir nova conta");
-			Console.WriteLine("3- Transferir");
-			Console.WriteLine("4- Sacar");
-			Console.WriteLine("5- Depositar");
-            Console.WriteLine("C- Limpar Tela");
-			Console.WriteLine("X- Sair");
+			Console.WriteLine("1 - Listar contas");
+			Console.WriteLine("2 - Inserir nova conta");
+			Console.WriteLine("3 - Transferir");
+			Console.WriteLine("4 - Sacar");
+			Console.WriteLine("5 - Depositar");
+            Console.WriteLine("C - Limpar Tela");
+			Console.WriteLine("X - Sair");
 			Console.WriteLine();
 
 			string opcaoUsuario = Console.ReadLine().ToUpper();
