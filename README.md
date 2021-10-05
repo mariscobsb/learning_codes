@@ -2,9 +2,9 @@
 Exemples for learning pyton for DIO and exam BB2021
 
 
-
+------------------------------------------------------------------
 planilha de prazos bootcamps:
-
+------------------------------------------------------------------
 
 android developer até 1/11/2021
 
@@ -36,3 +36,21 @@ everis New Talents #3 Java até  19/11/2021
 
 everis New Talents #3 .NET 19/11/2021
 
+TQI Java Developer 29/11/2021
+
+------------------------------------------------------------
+Bootcamps concluídos
+------------------------------------------------------------
+Decola tech Avanade c# 9/2021
+
+Aceleração GFT 15 pyton e QA 9/2021
+
+everis Quality Assurance Beginner #2 QA 8/2021
+
+HTML web developer 7/2021
+
+.net Essencials 8/2021
+
+Become Remote from Impulso 9/2021
+
+Cognizant Cloud Data Engineer 9/2021
