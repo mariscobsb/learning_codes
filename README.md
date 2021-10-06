@@ -8,7 +8,7 @@ planilha de prazos bootcamps:
 
 android developer até 1/11/2021 !!!!!!!!!!!!!!
 
-Impulso FullStack Developer até 31/10/2021
+Impulso FullStack Developer até 31/10/2021 !!!!!!!!!!!!!!!!!
 
 Impulso React Web Developeraté 11/11/2021
 
