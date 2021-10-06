@@ -1,0 +1,4 @@
+https://pt.stackoverflow.com/questions/437043/como-criar-uma-pasta-dentro-do-meu-reposit%C3%B3rio-no-github
+
+para criar pasta, só indicar que está sendo criada uma nova pasta, digite "/"
+(caracter: barra), neste momento o texto digitado anteriormente será deslocado para a esquerda se tranformando em uma pasta:
