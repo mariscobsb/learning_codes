@@ -1,0 +1,3 @@
+modelo criado para fins de aprendizagem conforme dio
+
+Desenvolvendo seu blog com as tecnologias de Java e Angular
