@@ -30,8 +30,6 @@ Banco Carrefour Data Engineer 29/11/2021 (falta pouco, prioridade)
 
 JavaScript Game Developer 14/11/2021
 
-everis New Talents #2 .NET 19/11/2021
-
 everis New Talents #3 Java até  19/11/2021
 
 everis New Talents #3 .NET 19/11/2021
@@ -57,3 +55,5 @@ Become Remote from Impulso 9/2021
 Cognizant Cloud Data Engineer 9/2021
 
 everis Quality Assurance Beginner #3 6/10/2021
+
+everis New Talents #2 .NET 6/10/2021
