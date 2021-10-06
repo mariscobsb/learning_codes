@@ -38,6 +38,7 @@ everis New Talents #3 .NET 19/11/2021
 
 TQI Java Developer 29/11/2021
 
+
 ------------------------------------------------------------
 Bootcamps concluídos
 ------------------------------------------------------------
@@ -54,3 +55,5 @@ HTML web developer 7/2021
 Become Remote from Impulso 9/2021
 
 Cognizant Cloud Data Engineer 9/2021
+
+everis Quality Assurance Beginner #3 6/10/2021
