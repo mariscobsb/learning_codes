@@ -50,12 +50,14 @@ Become Remote from Impulso 9/2021
 
 Cognizant Cloud Data Engineer 9/2021
 
-everis Quality Assurance Beginner #3 6/10/2021
+everis Quality Assurance Beginner #3 10/2021
 
-everis New Talents #2 .NET 6/10/2021
+everis New Talents #2 .NET 10/2021
 
-Banco Carrefour Data Engineer 06/10/2021
+Banco Carrefour Data Engineer 10/2021
 
-Capgemini Fullstack Java and Angular até 06/10/2021
+Capgemini Fullstack Java and Angular até 10/2021
 
 android developer terminado em 10/2021
+
+GFT Java & AWS Developer concluído em 10/2021
