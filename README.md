@@ -8,23 +8,23 @@ planilha de prazos bootcamps (doing kanban method):
 
 Impulso React Web Developer até 11/11/2021
 
-everis New Talents #2 Java 19/11/2021
+everis New Talents #2 Java      19/11/2021
 
-Carrefour Android Developer 09/02/2022
+Carrefour Android Developer     09/02/2022
 
 Take Blip Fullstack Developer #2 até 8/1/2022
 
-Eduzz Fullstack Developer 31/11/2021
+Eduzz Fullstack Developer       31/11/2021
 
-Java Developer 14/11/2021
+Java Developer                  14/11/2021
 
-JavaScript Game Developer 14/11/2021
+JavaScript Game Developer       14/11/2021
 
 everis New Talents #3 Java até  19/11/2021
 
-everis New Talents #3 .NET 19/11/2021
+everis New Talents #3 .NET      19/11/2021
 
-TQI Java Developer 29/11/2021
+TQI Java Developer              29/11/2021
 
 Aceleração Global Dev #16 Avanade com lives 16/10 (pode assistir gravado)
 
