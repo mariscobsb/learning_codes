@@ -3,10 +3,8 @@ Exemples for learning pyton for DIO and exam BB2021
 
 
 ------------------------------------------------------------------
-planilha de prazos bootcamps:
+planilha de prazos bootcamps (doing kanban method):
 ------------------------------------------------------------------
-
-Impulso FullStack Developer até 31/10/2021 !!!!!!!!!!!!!!!!!
 
 Impulso React Web Developer até 11/11/2021
 
@@ -31,7 +29,7 @@ TQI Java Developer 29/11/2021
 Aceleração Global Dev #16 Avanade com lives 16/10 (pode assistir gravado)
 
 ------------------------------------------------------------
-Bootcamps concluídos
+Bootcamps concluídos (done from kanban method)
 ------------------------------------------------------------
 
 Decola tech Avanade c# 9/2021
@@ -59,3 +57,5 @@ Capgemini Fullstack Java and Angular até 10/2021
 android developer terminado em 10/2021
 
 GFT Java & AWS Developer concluído em 10/2021
+
+Impulso FullStack Developer feito em 10/2021
