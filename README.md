@@ -14,10 +14,6 @@ Take Blip Fullstack Developer #2 até 8/1/2022
 
 Eduzz Fullstack Developer       31/11/2021
 
-Java Developer                  14/11/2021
-
-JavaScript Game Developer       14/11/2021
-
 everis New Talents #3 Java até  19/11/2021
 
 everis New Talents #3 .NET      19/11/2021
@@ -61,3 +57,5 @@ Impulso FullStack Developer feito em 10/2021
 everis New Talents #3 Java realizado até 10/2021
 
 JavaScript Game Developer       10/2021
+
+Java Developer                  10/2021
