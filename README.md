@@ -8,8 +8,6 @@ planilha de prazos bootcamps (doing kanban method):
 
 Impulso React Web Developer até 11/11/2021
 
-everis New Talents #2 Java      19/11/2021
-
 Carrefour Android Developer     09/02/2022
 
 Take Blip Fullstack Developer #2 até 8/1/2022
@@ -59,3 +57,5 @@ android developer terminado em 10/2021
 GFT Java & AWS Developer concluído em 10/2021
 
 Impulso FullStack Developer feito em 10/2021
+
+everis New Talents #3 Java realizado até 10/2021
