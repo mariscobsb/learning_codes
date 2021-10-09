@@ -59,3 +59,5 @@ GFT Java & AWS Developer concluído em 10/2021
 Impulso FullStack Developer feito em 10/2021
 
 everis New Talents #3 Java realizado até 10/2021
+
+JavaScript Game Developer       10/2021
