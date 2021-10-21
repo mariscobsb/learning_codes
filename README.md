@@ -20,7 +20,8 @@ everis New Talents #3 .NET      19/11/2021
 
 TQI Java Developer              29/11/2021
 
-Aceleração Global Dev #16 Avanade com lives 16/10 (pode assistir gravado)
+https://docs.microsoft.com/pt-br/learn/modules/fundamental-azure-concepts/ sem prazo
+
 
 ------------------------------------------------------------
 Bootcamps concluídos (done from kanban method)
@@ -59,3 +60,7 @@ everis New Talents #3 Java realizado até 10/2021
 JavaScript Game Developer       10/2021
 
 Java Developer                  10/2021
+
+Aceleração Global Dev #16 Avanade 10/2021
+
+
