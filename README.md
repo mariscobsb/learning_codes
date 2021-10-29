@@ -22,6 +22,8 @@ TQI Java Developer              29/11/2021
 
 https://docs.microsoft.com/pt-br/learn/modules/fundamental-azure-concepts/ sem prazo
 
+https://www.escolavirtual.gov.br/catalogo#inicio-listagem-cursos cada curso definido com 30 dias de prazo
+
 
 ------------------------------------------------------------
 Bootcamps concluídos (done from kanban method)
