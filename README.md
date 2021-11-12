@@ -66,3 +66,7 @@ NTT Data everis New Talents #3 .NET      11/2021
 Aceleração Global Dev #16 Avanade 10/2021
 
 Impulso React Web Developer até 11/2021
+
+Concurso bb e brb 2021 concluído 11/2021
+
+
