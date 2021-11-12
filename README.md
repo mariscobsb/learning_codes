@@ -6,23 +6,19 @@ Exemples for learning pyton for DIO and exam BB2021
 planilha de prazos bootcamps (doing kanban method):
 ------------------------------------------------------------------
 
-Impulso React Web Developer até 11/11/2021
-
 Carrefour Android Developer     09/02/2022
 
 Take Blip Fullstack Developer #2 até 8/1/2022
 
 Eduzz Fullstack Developer       31/11/2021
 
-everis New Talents #3 Java até  19/11/2021
-
-everis New Talents #3 .NET      19/11/2021
-
 TQI Java Developer              29/11/2021
+
+Spread Java developer           08/03/2021
 
 https://docs.microsoft.com/pt-br/learn/modules/fundamental-azure-concepts/ sem prazo
 
-https://www.escolavirtual.gov.br/catalogo#inicio-listagem-cursos cada curso definido com 30 dias de prazo
+https://www.escolavirtual.gov.br/catalogo#inicio-listagem-cursos 10/12/2021
 
 
 ------------------------------------------------------------
@@ -63,6 +59,10 @@ JavaScript Game Developer       10/2021
 
 Java Developer                  10/2021
 
+NTT Data everis New Talents #3 Java até  11/2021
+
+NTT Data everis New Talents #3 .NET      11/2021
+
 Aceleração Global Dev #16 Avanade 10/2021
 
-
+Impulso React Web Developer até 11/2021
